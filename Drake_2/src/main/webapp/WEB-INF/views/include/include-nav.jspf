@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<nav>
+
+	<ul>
+	<li><a href = "#">HOME</a><li>
+	
+	<li><a href = "#p1">음악목록</a><li>
+	<li><a href = "#p2">새음악</a><li>
+	<li><a href = "#p3">피쳐링</a><li>
+
+
+	
+	
+	
+	
+	
+	
+	</ul>
+
+
+
+</nav>    
+    
