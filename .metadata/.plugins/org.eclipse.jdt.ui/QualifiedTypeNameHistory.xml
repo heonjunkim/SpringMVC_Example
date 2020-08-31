@@ -3,7 +3,6 @@
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
 <fullyQualifiedTypeName name="com.maplegjswns.drake.dao.DrakeDao"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="com.maplegjswns.drake.service.DrakeService"/>
 <fullyQualifiedTypeName name="com.maplegjswns.model.DrakeVO"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
@@ -29,4 +28,5 @@
 <fullyQualifiedTypeName name="com.biz.frog.service.FrogService"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.biz.frog.model.FrogVO"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 </qualifiedTypeNameHistroy>
